@@ -1,0 +1,19 @@
+body {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 50px;
+
+  font-family: "Open Sans", sans-serif;
+}
+
+.header {
+  padding-top: 5px;
+  text-align: center;
+  font-size: 25px;
+ 
+}
+
+.row {
+  padding-bottom: 20px;
+  
+}
